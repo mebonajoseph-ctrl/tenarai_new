@@ -8,6 +8,7 @@ import (
 func main() {
     id := uuid.New()
     fmt.Println("Generated ID:", id)
+	fmt.Println("hey")
 
 	/*
 		PS C:\Users\mebona.joseph\Desktop\day1_go> go run configerror.go         
